@@ -2,21 +2,6 @@
 
 
 Вам дан заголовочный файл *sum_reverse_sort.h*, содержащий объявления трёх функций
-
-[sum_reverse_sort.h](https://github.com/avtomato/Basics-of-C-plus-plus-development-yellow-belt/blob/master/week-03/01-Programming-Assignment/Source/sum_reverse_sort.h)
-
-```objectivec
-#pragma once
-#include <string>
-#include <vector>
-
-using namespace std;
-
-int Sum(int x, int y);
-string Reverse(string s);
-void Sort(vector<int>& nums);
-
-```
 Вам надо прислать *cpp*-файл, содержащий определения этих функций.
 
 ##### Как будет тестироваться ваш код #####
