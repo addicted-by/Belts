@@ -1,0 +1,3 @@
+C:/Users/User/CLionProjects/Coursera/Yellow/Week4/Assignments/Figure/cmake-build-debug/CMakeFiles/Figure.dir
+C:/Users/User/CLionProjects/Coursera/Yellow/Week4/Assignments/Figure/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/CLionProjects/Coursera/Yellow/Week4/Assignments/Figure/cmake-build-debug/CMakeFiles/rebuild_cache.dir

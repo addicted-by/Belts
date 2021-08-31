@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/User/CLionProjects/Coursera/White/Week4/Assignments/Files inputs and outputs/PrecisonOutput/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+algorithm
+-
+vector
+-
+iomanip
+-
+

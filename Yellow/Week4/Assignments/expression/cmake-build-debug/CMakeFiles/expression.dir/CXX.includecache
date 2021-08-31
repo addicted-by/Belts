@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/User/CLionProjects/Coursera/Yellow/Week4/Assignments/expression/main.cpp
+iostream
+-
+deque
+-
+string
+-
+iostream
+-
+cmath
+-
+

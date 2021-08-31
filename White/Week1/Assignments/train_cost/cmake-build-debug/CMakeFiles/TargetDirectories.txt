@@ -1,0 +1,3 @@
+C:/Users/User/CLionProjects/Coursera/White/Week1/train_cost/cmake-build-debug/CMakeFiles/train_cost.dir
+C:/Users/User/CLionProjects/Coursera/White/Week1/train_cost/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/CLionProjects/Coursera/White/Week1/train_cost/cmake-build-debug/CMakeFiles/rebuild_cache.dir

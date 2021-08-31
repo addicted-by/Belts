@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/User/CLionProjects/Coursera/Yellow/Week4/Assignments/PartOfVector/main.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+string
+-
+iostream
+-
+vector
+-
+iostream
+-
+vector
+-
+cstdint
+-
+iostream
+-
+vector
+-
+math.h
+-
+

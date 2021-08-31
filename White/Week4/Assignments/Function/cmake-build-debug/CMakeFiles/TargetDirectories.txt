@@ -1,0 +1,3 @@
+C:/Users/User/CLionProjects/Coursera/White/Week4/Function/cmake-build-debug/CMakeFiles/Function.dir
+C:/Users/User/CLionProjects/Coursera/White/Week4/Function/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/CLionProjects/Coursera/White/Week4/Function/cmake-build-debug/CMakeFiles/rebuild_cache.dir

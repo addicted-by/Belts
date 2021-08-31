@@ -1,0 +1,3 @@
+C:/Users/User/CLionProjects/Coursera/Red/Week1/Lecture/cmake-build-debug/CMakeFiles/Lecture.dir
+C:/Users/User/CLionProjects/Coursera/Red/Week1/Lecture/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/CLionProjects/Coursera/Red/Week1/Lecture/cmake-build-debug/CMakeFiles/rebuild_cache.dir

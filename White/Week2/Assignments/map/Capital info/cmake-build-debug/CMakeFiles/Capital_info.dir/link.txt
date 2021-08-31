@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.1.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Capital_info.dir/objects.a
+C:\mingw64\bin\ar.exe cr CMakeFiles\Capital_info.dir/objects.a @CMakeFiles\Capital_info.dir\objects1.rsp
+C:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Capital_info.dir/objects.a -Wl,--no-whole-archive -o Capital_info.exe -Wl,--out-implib,libCapital_info.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Capital_info.dir\linklibs.rsp

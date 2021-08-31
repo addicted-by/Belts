@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/User/CLionProjects/Coursera/Yellow/Week4/Assignments/merge_sort/main.cpp
+iostream
+-
+algorithm
+-
+vector
+-
+iostream
+-
+string
+-
+algorithm
+-
+set
+-
+

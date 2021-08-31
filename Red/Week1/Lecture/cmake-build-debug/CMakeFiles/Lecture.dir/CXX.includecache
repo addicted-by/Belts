@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/User/CLionProjects/Coursera/Red/Week1/Lecture/main.cpp
+iostream
+-
+type_traits
+-
+vector
+-
+string
+-
+algorithm
+-
+cstring
+-
+unordered_map
+-
+string
+-
+unordered_map
+-
+

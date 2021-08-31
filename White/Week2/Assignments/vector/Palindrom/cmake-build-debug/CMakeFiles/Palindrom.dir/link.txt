@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.1.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Palindrom.dir/objects.a
+C:\mingw64\bin\ar.exe cr CMakeFiles\Palindrom.dir/objects.a @CMakeFiles\Palindrom.dir\objects1.rsp
+C:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Palindrom.dir/objects.a -Wl,--no-whole-archive -o Palindrom.exe -Wl,--out-implib,libPalindrom.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Palindrom.dir\linklibs.rsp

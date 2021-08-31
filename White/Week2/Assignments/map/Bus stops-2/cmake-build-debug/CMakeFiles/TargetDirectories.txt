@@ -1,0 +1,3 @@
+C:/Users/User/CLionProjects/Coursera/White/Week2/map/Bus stops-2/cmake-build-debug/CMakeFiles/Bus_stops_2.dir
+C:/Users/User/CLionProjects/Coursera/White/Week2/map/Bus stops-2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/CLionProjects/Coursera/White/Week2/map/Bus stops-2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

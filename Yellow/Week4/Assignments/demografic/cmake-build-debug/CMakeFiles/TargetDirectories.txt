@@ -1,0 +1,3 @@
+C:/Users/User/CLionProjects/Coursera/Yellow/Week4/Assignments/demografic/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/CLionProjects/Coursera/Yellow/Week4/Assignments/demografic/cmake-build-debug/CMakeFiles/demografic.dir
+C:/Users/User/CLionProjects/Coursera/Yellow/Week4/Assignments/demografic/cmake-build-debug/CMakeFiles/rebuild_cache.dir

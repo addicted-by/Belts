@@ -1,0 +1,3 @@
+C:/Users/User/CLionProjects/Coursera/White/Week5/SimpleDatabase/cmake-build-debug/CMakeFiles/SimpleDatabase.dir
+C:/Users/User/CLionProjects/Coursera/White/Week5/SimpleDatabase/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/CLionProjects/Coursera/White/Week5/SimpleDatabase/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/User/CLionProjects/Coursera/Yellow/Week3/Assignments/check/cmake-build-debug/CMakeFiles/check.dir
+C:/Users/User/CLionProjects/Coursera/Yellow/Week3/Assignments/check/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/CLionProjects/Coursera/Yellow/Week3/Assignments/check/cmake-build-debug/CMakeFiles/rebuild_cache.dir

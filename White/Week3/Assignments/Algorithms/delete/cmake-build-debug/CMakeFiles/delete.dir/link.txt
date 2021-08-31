@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.1.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\delete.dir/objects.a
+C:\mingw64\bin\ar.exe cr CMakeFiles\delete.dir/objects.a @CMakeFiles\delete.dir\objects1.rsp
+C:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\delete.dir/objects.a -Wl,--no-whole-archive -o delete.exe -Wl,--out-implib,libdelete.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\delete.dir\linklibs.rsp

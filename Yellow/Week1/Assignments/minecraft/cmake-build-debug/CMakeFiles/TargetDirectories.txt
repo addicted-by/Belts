@@ -1,0 +1,3 @@
+C:/Users/User/CLionProjects/Coursera/Yellow/Week1/Assignments/Minecraft/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/CLionProjects/Coursera/Yellow/Week1/Assignments/Minecraft/cmake-build-debug/CMakeFiles/Minecraft.dir
+C:/Users/User/CLionProjects/Coursera/Yellow/Week1/Assignments/Minecraft/cmake-build-debug/CMakeFiles/rebuild_cache.dir

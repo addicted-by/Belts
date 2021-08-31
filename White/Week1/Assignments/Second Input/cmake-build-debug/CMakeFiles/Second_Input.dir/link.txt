@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.1.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Second_Input.dir/objects.a
+C:\mingw64\bin\ar.exe cr CMakeFiles\Second_Input.dir/objects.a @CMakeFiles\Second_Input.dir\objects1.rsp
+C:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Second_Input.dir/objects.a -Wl,--no-whole-archive -o Second_Input.exe -Wl,--out-implib,libSecond_Input.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Second_Input.dir\linklibs.rsp

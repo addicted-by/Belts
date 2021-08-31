@@ -1,0 +1,3 @@
+C:/Users/User/CLionProjects/Coursera/White/Week4/Assignments/Override input and output/test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/User/CLionProjects/Coursera/White/Week4/Assignments/Override input and output/test/cmake-build-debug/CMakeFiles/test.dir
+C:/Users/User/CLionProjects/Coursera/White/Week4/Assignments/Override input and output/test/cmake-build-debug/CMakeFiles/edit_cache.dir

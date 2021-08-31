@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/User/CLionProjects/Coursera/Yellow/Week3/Assignments/sum_reverse_sort/main.cpp
+iostream
+-
+sum_reverse_sort.cpp
+C:/Users/User/CLionProjects/Coursera/Yellow/Week3/Assignments/sum_reverse_sort/sum_reverse_sort.cpp
+
+C:/Users/User/CLionProjects/Coursera/Yellow/Week3/Assignments/sum_reverse_sort/sum_reverse_sort.cpp
+sum_reverse_sort.h
+C:/Users/User/CLionProjects/Coursera/Yellow/Week3/Assignments/sum_reverse_sort/sum_reverse_sort.h
+algorithm
+-
+
+C:/Users/User/CLionProjects/Coursera/Yellow/Week3/Assignments/sum_reverse_sort/sum_reverse_sort.h
+string
+-
+vector
+-
+

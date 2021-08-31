@@ -1,0 +1,3 @@
+C:/Users/User/CLionProjects/Coursera/White/Week2/Palindrom/cmake-build-debug/CMakeFiles/Palindrom.dir
+C:/Users/User/CLionProjects/Coursera/White/Week2/Palindrom/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/CLionProjects/Coursera/White/Week2/Palindrom/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.1.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\RepsDeleting.dir/objects.a
+C:\mingw64\bin\ar.exe cr CMakeFiles\RepsDeleting.dir/objects.a @CMakeFiles\RepsDeleting.dir\objects1.rsp
+C:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\RepsDeleting.dir/objects.a -Wl,--no-whole-archive -o RepsDeleting.exe -Wl,--out-implib,libRepsDeleting.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\RepsDeleting.dir\linklibs.rsp

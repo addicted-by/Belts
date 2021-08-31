@@ -1,0 +1,3 @@
+C:/Users/User/CLionProjects/Coursera/Yellow/Week4/Assignments/find_starts_with_char/cmake-build-debug/CMakeFiles/find_starts_with_char.dir
+C:/Users/User/CLionProjects/Coursera/Yellow/Week4/Assignments/find_starts_with_char/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/CLionProjects/Coursera/Yellow/Week4/Assignments/find_starts_with_char/cmake-build-debug/CMakeFiles/rebuild_cache.dir

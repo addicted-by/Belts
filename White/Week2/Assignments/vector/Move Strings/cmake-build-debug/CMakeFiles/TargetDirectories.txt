@@ -1,0 +1,3 @@
+C:/Users/User/CLionProjects/Coursera/White/Week2/Move Strings/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/User/CLionProjects/Coursera/White/Week2/Move Strings/cmake-build-debug/CMakeFiles/Move_Strings.dir
+C:/Users/User/CLionProjects/Coursera/White/Week2/Move Strings/cmake-build-debug/CMakeFiles/edit_cache.dir

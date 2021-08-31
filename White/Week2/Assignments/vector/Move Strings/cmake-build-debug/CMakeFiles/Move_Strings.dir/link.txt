@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.1.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Move_Strings.dir/objects.a
+C:\mingw64\bin\ar.exe cr CMakeFiles\Move_Strings.dir/objects.a @CMakeFiles\Move_Strings.dir\objects1.rsp
+C:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Move_Strings.dir/objects.a -Wl,--no-whole-archive -o Move_Strings.exe -Wl,--out-implib,libMove_Strings.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Move_Strings.dir\linklibs.rsp
