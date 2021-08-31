@@ -18,7 +18,3 @@ bool IsPalindrom(const string& s)
 * игнорируется первый или последний символ;
 * сравнение соответствующих символов завершается не в середине строки, а раньше;
 * игнорируются пробелы
-
-Начать работу вы можете с шаблона, который содержит наш фреймворк юнит-тестов и заготовку функции _IsPalindrom_.
-
-[test_palindrome.cpp](https://github.com/avtomato/Basics-of-C-plus-plus-development-yellow-belt/blob/master/week-02/05-Programming-Assignment/Source/test_palindrome.cpp)
