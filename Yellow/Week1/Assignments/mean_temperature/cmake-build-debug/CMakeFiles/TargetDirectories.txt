@@ -1,3 +1,0 @@
-C:/Users/User/CLionProjects/Coursera/Yellow/Week1/Assignments/MeanTemp/cmake-build-debug/CMakeFiles/MeanTemp.dir
-C:/Users/User/CLionProjects/Coursera/Yellow/Week1/Assignments/MeanTemp/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/User/CLionProjects/Coursera/Yellow/Week1/Assignments/MeanTemp/cmake-build-debug/CMakeFiles/rebuild_cache.dir

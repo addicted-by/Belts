@@ -1,3 +1,0 @@
-"C:\Program Files\JetBrains\CLion 2021.1.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Mean_Temperature.dir/objects.a
-C:\mingw64\bin\ar.exe cr CMakeFiles\Mean_Temperature.dir/objects.a @CMakeFiles\Mean_Temperature.dir\objects1.rsp
-C:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Mean_Temperature.dir/objects.a -Wl,--no-whole-archive -o Mean_Temperature.exe -Wl,--out-implib,libMean_Temperature.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Mean_Temperature.dir\linklibs.rsp

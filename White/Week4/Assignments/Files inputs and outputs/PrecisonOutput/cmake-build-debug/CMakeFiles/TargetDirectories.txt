@@ -1,3 +1,0 @@
-C:/Users/User/CLionProjects/Coursera/White/Week4/Assignments/Files inputs and outputs/PrecisonOutput/cmake-build-debug/CMakeFiles/PrecisonOutput.dir
-C:/Users/User/CLionProjects/Coursera/White/Week4/Assignments/Files inputs and outputs/PrecisonOutput/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/User/CLionProjects/Coursera/White/Week4/Assignments/Files inputs and outputs/PrecisonOutput/cmake-build-debug/CMakeFiles/rebuild_cache.dir

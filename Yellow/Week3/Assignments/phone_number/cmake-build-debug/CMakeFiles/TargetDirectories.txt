@@ -1,3 +1,0 @@
-C:/Users/User/CLionProjects/Coursera/Yellow/Week3/Assignments/phone_number/cmake-build-debug/CMakeFiles/phone_number.dir
-C:/Users/User/CLionProjects/Coursera/Yellow/Week3/Assignments/phone_number/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/User/CLionProjects/Coursera/Yellow/Week3/Assignments/phone_number/cmake-build-debug/CMakeFiles/rebuild_cache.dir

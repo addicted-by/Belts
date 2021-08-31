@@ -1,3 +1,0 @@
-C:/Users/User/CLionProjects/Coursera/White/Week3/Tasks/Constructors/names3/cmake-build-debug/CMakeFiles/names3.dir
-C:/Users/User/CLionProjects/Coursera/White/Week3/Tasks/Constructors/names3/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/User/CLionProjects/Coursera/White/Week3/Tasks/Constructors/names3/cmake-build-debug/CMakeFiles/rebuild_cache.dir

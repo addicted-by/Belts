@@ -1,3 +1,0 @@
-"C:\Program Files\JetBrains\CLion 2021.1.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\PartOfSet.dir/objects.a
-C:\mingw64\bin\ar.exe cr CMakeFiles\PartOfSet.dir/objects.a @CMakeFiles\PartOfSet.dir\objects1.rsp
-C:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\PartOfSet.dir/objects.a -Wl,--no-whole-archive -o PartOfSet.exe -Wl,--out-implib,libPartOfSet.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\PartOfSet.dir\linklibs.rsp

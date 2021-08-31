@@ -1,3 +1,0 @@
-C:/Users/User/CLionProjects/Coursera/White/Week4/Assignments/Files inputs and outputs/Student's List/cmake-build-debug/CMakeFiles/Student_s_List.dir
-C:/Users/User/CLionProjects/Coursera/White/Week4/Assignments/Files inputs and outputs/Student's List/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/User/CLionProjects/Coursera/White/Week4/Assignments/Files inputs and outputs/Student's List/cmake-build-debug/CMakeFiles/rebuild_cache.dir

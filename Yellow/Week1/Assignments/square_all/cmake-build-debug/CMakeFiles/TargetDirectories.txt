@@ -1,3 +1,0 @@
-C:/Users/User/CLionProjects/Coursera/Yellow/Week1/Assignments/SquareAll/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-C:/Users/User/CLionProjects/Coursera/Yellow/Week1/Assignments/SquareAll/cmake-build-debug/CMakeFiles/SquareAll.dir
-C:/Users/User/CLionProjects/Coursera/Yellow/Week1/Assignments/SquareAll/cmake-build-debug/CMakeFiles/edit_cache.dir

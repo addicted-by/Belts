@@ -1,3 +1,0 @@
-C:/Users/User/CLionProjects/Coursera/White/Week1/Minimal_String/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/User/CLionProjects/Coursera/White/Week1/Minimal_String/cmake-build-debug/CMakeFiles/Minimal_String.dir
-C:/Users/User/CLionProjects/Coursera/White/Week1/Minimal_String/cmake-build-debug/CMakeFiles/rebuild_cache.dir

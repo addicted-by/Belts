@@ -1,3 +1,0 @@
-C:/Users/User/CLionProjects/Coursera/White/Week1/Second Input/cmake-build-debug/CMakeFiles/Second_Input.dir
-C:/Users/User/CLionProjects/Coursera/White/Week1/Second Input/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/User/CLionProjects/Coursera/White/Week1/Second Input/cmake-build-debug/CMakeFiles/rebuild_cache.dir

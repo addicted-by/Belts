@@ -1,3 +1,0 @@
-C:/Users/User/CLionProjects/Coursera/Yellow/Week2/Assignments/TestsRational/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/User/CLionProjects/Coursera/Yellow/Week2/Assignments/TestsRational/cmake-build-debug/CMakeFiles/TestsRational.dir
-C:/Users/User/CLionProjects/Coursera/Yellow/Week2/Assignments/TestsRational/cmake-build-debug/CMakeFiles/rebuild_cache.dir

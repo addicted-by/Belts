@@ -1,4 +1,0 @@
-2 - rational_eq_add_sub.cpp
-3 - rational_mult_div.cpp
-4  - rational_io.cpp
-5 - rational_map.cpp

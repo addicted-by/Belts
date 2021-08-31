@@ -1,3 +1,0 @@
-"C:\Program Files\JetBrains\CLion 2021.1.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Queue.dir/objects.a
-C:\mingw64\bin\ar.exe cr CMakeFiles\Queue.dir/objects.a @CMakeFiles\Queue.dir\objects1.rsp
-C:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Queue.dir/objects.a -Wl,--no-whole-archive -o Queue.exe -Wl,--out-implib,libQueue.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Queue.dir\linklibs.rsp

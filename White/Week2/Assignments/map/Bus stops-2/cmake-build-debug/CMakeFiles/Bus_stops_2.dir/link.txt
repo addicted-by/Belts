@@ -1,3 +1,0 @@
-"C:\Program Files\JetBrains\CLion 2021.1.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Bus_stops_2.dir/objects.a
-C:\mingw64\bin\ar.exe cr CMakeFiles\Bus_stops_2.dir/objects.a @CMakeFiles\Bus_stops_2.dir\objects1.rsp
-C:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Bus_stops_2.dir/objects.a -Wl,--no-whole-archive -o Bus_stops_2.exe -Wl,--out-implib,libBus_stops_2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Bus_stops_2.dir\linklibs.rsp

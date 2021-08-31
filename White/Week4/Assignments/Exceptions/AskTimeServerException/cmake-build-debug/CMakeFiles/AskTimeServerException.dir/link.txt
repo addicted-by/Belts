@@ -1,3 +1,0 @@
-"C:\Program Files\JetBrains\CLion 2021.1.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\AskTimeServerException.dir/objects.a
-C:\mingw64\bin\ar.exe cr CMakeFiles\AskTimeServerException.dir/objects.a @CMakeFiles\AskTimeServerException.dir\objects1.rsp
-C:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\AskTimeServerException.dir/objects.a -Wl,--no-whole-archive -o AskTimeServerException.exe -Wl,--out-implib,libAskTimeServerException.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\AskTimeServerException.dir\linklibs.rsp

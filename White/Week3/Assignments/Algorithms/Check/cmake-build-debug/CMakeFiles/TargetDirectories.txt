@@ -1,3 +1,0 @@
-C:/Users/User/CLionProjects/Coursera/White/Week3/Tasks/Algorithms/Check/cmake-build-debug/CMakeFiles/Check.dir
-C:/Users/User/CLionProjects/Coursera/White/Week3/Tasks/Algorithms/Check/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/User/CLionProjects/Coursera/White/Week3/Tasks/Algorithms/Check/cmake-build-debug/CMakeFiles/rebuild_cache.dir

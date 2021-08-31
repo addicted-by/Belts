@@ -1,3 +1,0 @@
-C:/Users/User/CLionProjects/Coursera/Yellow/Week2/Assignments/TestsPalindrom/cmake-build-debug/CMakeFiles/TestsPalindrom.dir
-C:/Users/User/CLionProjects/Coursera/Yellow/Week2/Assignments/TestsPalindrom/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/User/CLionProjects/Coursera/Yellow/Week2/Assignments/TestsPalindrom/cmake-build-debug/CMakeFiles/rebuild_cache.dir

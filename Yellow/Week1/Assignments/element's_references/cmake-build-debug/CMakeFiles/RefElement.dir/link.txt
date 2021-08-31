@@ -1,3 +1,0 @@
-"C:\Program Files\JetBrains\CLion 2021.1.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\RefElement.dir/objects.a
-C:\mingw64\bin\ar.exe cr CMakeFiles\RefElement.dir/objects.a @CMakeFiles\RefElement.dir\objects1.rsp
-C:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\RefElement.dir/objects.a -Wl,--no-whole-archive -o RefElement.exe -Wl,--out-implib,libRefElement.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\RefElement.dir\linklibs.rsp

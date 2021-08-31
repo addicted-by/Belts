@@ -1,3 +1,0 @@
-"C:\Program Files\JetBrains\CLion 2021.1.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Choose_Palindroms.dir/objects.a
-C:\mingw64\bin\ar.exe cr CMakeFiles\Choose_Palindroms.dir/objects.a @CMakeFiles\Choose_Palindroms.dir\objects1.rsp
-C:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Choose_Palindroms.dir/objects.a -Wl,--no-whole-archive -o Choose_Palindroms.exe -Wl,--out-implib,libChoose_Palindroms.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Choose_Palindroms.dir\linklibs.rsp

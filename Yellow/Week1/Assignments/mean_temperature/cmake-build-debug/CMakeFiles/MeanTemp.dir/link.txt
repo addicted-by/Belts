@@ -1,3 +1,0 @@
-"C:\Program Files\JetBrains\CLion 2021.1.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\MeanTemp.dir/objects.a
-C:\mingw64\bin\ar.exe cr CMakeFiles\MeanTemp.dir/objects.a @CMakeFiles\MeanTemp.dir\objects1.rsp
-C:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\MeanTemp.dir/objects.a -Wl,--no-whole-archive -o MeanTemp.exe -Wl,--out-implib,libMeanTemp.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\MeanTemp.dir\linklibs.rsp

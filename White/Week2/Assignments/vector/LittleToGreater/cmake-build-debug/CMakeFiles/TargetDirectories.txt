@@ -1,3 +1,0 @@
-C:/Users/User/CLionProjects/Coursera/White/Week2/LittleToGreater/cmake-build-debug/CMakeFiles/LittleToGreater.dir
-C:/Users/User/CLionProjects/Coursera/White/Week2/LittleToGreater/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/User/CLionProjects/Coursera/White/Week2/LittleToGreater/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,3 +1,0 @@
-C:/Users/User/CLionProjects/Coursera/White/Week1/Binary number/cmake-build-debug/CMakeFiles/Binary_number.dir
-C:/Users/User/CLionProjects/Coursera/White/Week1/Binary number/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/User/CLionProjects/Coursera/White/Week1/Binary number/cmake-build-debug/CMakeFiles/rebuild_cache.dir

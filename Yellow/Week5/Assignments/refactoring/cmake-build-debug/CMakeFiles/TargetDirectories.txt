@@ -1,3 +1,0 @@
-C:/Users/User/CLionProjects/Coursera/Yellow/Week5/Assignments/refactoring/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-C:/Users/User/CLionProjects/Coursera/Yellow/Week5/Assignments/refactoring/cmake-build-debug/CMakeFiles/refactoring.dir
-C:/Users/User/CLionProjects/Coursera/Yellow/Week5/Assignments/refactoring/cmake-build-debug/CMakeFiles/edit_cache.dir

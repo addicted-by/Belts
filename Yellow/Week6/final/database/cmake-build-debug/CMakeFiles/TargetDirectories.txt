@@ -1,3 +1,0 @@
-C:/Users/User/CLionProjects/Coursera/Yellow/Week6/final/database/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/User/CLionProjects/Coursera/Yellow/Week6/final/database/cmake-build-debug/CMakeFiles/database.dir
-C:/Users/User/CLionProjects/Coursera/Yellow/Week6/final/database/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,3 +1,0 @@
-C:/Users/User/CLionProjects/Coursera/Yellow/Week4/Assignments/merge_sort/cmake-build-debug/CMakeFiles/merge_sort.dir
-C:/Users/User/CLionProjects/Coursera/Yellow/Week4/Assignments/merge_sort/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/User/CLionProjects/Coursera/Yellow/Week4/Assignments/merge_sort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
